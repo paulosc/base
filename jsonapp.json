@@ -1,8 +1,8 @@
-app:psc.software.ganhardinheiro
-image:https://paulosc.github.io/base/ganhar_dinheiro.png
-title:Ganhar Dinheiro em Casa
-text:Este aplicativo contem uma lista grande de ideias diferentes para tentar fazer uma graninha em casa nesse período difícil
-link:https://play.google.com/store/apps/details?id=psc.software.ganhardinheiro&hl=pt-BR
+app:psc.software.fgts
+image:https://firebasestorage.googleapis.com/v0/b/propaganda-e474f.appspot.com/o/iconfgts.png?alt=media&token=b25d6d67-238f-4cb8-8584-02f1998d9b2d
+title:Notícias FGTS
+text:Aplicativo sobre noticias do FGTS. Nele você encontrará noticias como:\n1 - Saque de R$ 1.045,00\n2 - Saque Digital\n3 - Saque Aniversário\n4 - Condições para saque do FGTS
+link:https://play.google.com/store/apps/details?id=br.com.rodrigoluisfaria.news_fgts
 show:true
 title_dialog:Novo Aplicativo
 monedata:true
